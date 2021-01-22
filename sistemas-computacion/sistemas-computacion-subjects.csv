@@ -1,0 +1,41 @@
+id,name,code,cred,comp,group,term
+discretas1,Matemáticas Discretas I,2025963,4,F,Ciencias de la Computación,3
+discretas2,Matemáticas Discretas II,2025964,4,F,Ciencias de la Computación,4
+metodos,Métodos Numéricos,2015970,3,F,Ciencias de la Computación,6
+algoritmos,Algoritmos,2016696,3,F,Ciencias de la Computación,6
+ingeco,Ingeniería Económica,2015703,3,F,Ciencias Económicas,4
+gerencia,Gerencia y Gestión de Proyectos,2015702,3,F,Ciencias Económicas,5
+visual,Computación Visual,2025960,3,D,Computación Visual,8
+ingsiscomp,Introducción a la Ingeniería de Sistemas y Computación,2025975,3,D,Contexto,1
+tpi,Taller de Proyectos Interdisciplinarios,2024045,3,D,Contexto,8
+mecanica,Fundamentos de Mecánica,1000019,4,F,Física,2
+electromag,Fundamentos de Electricidad y Magnetismo,1000017,4,F,Física,4
+teoriacomp,Introducción a la Teoría de la Computación,2015174,4,F,Física,5
+bases,Bases de Datos,2016353,3,D,Infraestructura,3
+elementos,Elementos de Computadores,2016698,3,D,Infraestructura,3
+arquitectura,Arquitectura de Computadores,2016697,3,D,Infraestructura,4
+sisinfo,Sistemas de Información,2025982,3,D,Infraestructura,6
+sisop,Sistemas Operativos,2016707,3,D,Infraestructura,6
+teoriainfo,Teoría de la Información y Sistemas de Comunicaciones,2025994,3,D,Infraestructura,7
+paralela,Computación Paralela y Distribuída,2016722,3,D,Infraestructura,8
+tics,Arquitectura de Infraestructura y Gobierno de TICs,2025983,3,D,Infraestructura,8
+cripto,Introducción a la Criptografía y a la Seguridad de la Información,2025972,3,D,Infraestructura,8
+diferencial,Calculo Diferencial,1000004,4,F,Matemáticas,1
+integral,Calculo Integral,1000005,4,F,Matemáticas,2
+lineal,Álgebra Lineal,1000003,4,F,Matemáticas,2
+multi,Cálculo en Varias Variables,1000006,4,F,Matemáticas,3
+modelos,Modelos y Simulación,2025970,3,D,Modelos,5
+optimizacion,Optimización,2025971,3,D,Modelos,6
+estocasticos,Modelos Estocásticos y Simulación en Computación y Comunicaciones,2025969,3,D,Modelos,7
+sistemico,Pensamiento Sistémico,2016703,3,D,Modelos,7
+probabilidad,Probabilidad y Estadística Fundamental,1000013,3,F,Probabilidad,3
+inteligentes,Introducción a los Sistemas Inteligentes,2025995,3,D,Sistemas Inteligentes,7
+programacion,Programación de Computadores,2015734,3,D,Software,1
+objetos,Programación Orientada a Objetos,2016375,3,D,Software,2
+estructuras,Estructuras de Datos,2016699,3,D,Software,4
+redes,Redes de Computadores,2025967,3,D,Software,5
+ingesoft1,Ingeniería de Software I,2016701,3,D,Software,5
+ingesoft2,Ingeniería de Software II,2016702,3,D,Software,6
+arquisoft,Arquitectura de Software,2016716,3,D,Software,7
+lenguajes,Lenguajes de Programación,2025966,3,D,Software,7
+grado,Trabajo de Grado,2016843,6,D,Trabajo de Grado,10
