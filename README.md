@@ -7,7 +7,7 @@ grid based guides, which do not properly represent each of the subjects prerequi
 In order to have a better visualization, they must be available in a decent format.
 
 ### List of available curriculums and their source:
-- [Ingeniería de Sistemas y Computación](sistemas-computacion): [Acuerdo 026 de 2014][legal-sistemas-unal]
+- [Ingeniería de Sistemas y Computación](sistemas-computacion): [Acuerdo 026 de 2014][legal-sistemas-computacion]
 
 ### Notation
 We can think of a curriculum as a directed acyclic graph, with Subjects as
