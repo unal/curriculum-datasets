@@ -41,4 +41,4 @@ expected to be comprehensive.
 Contribution of additional curriculums is more than welcome.
 
 
-[legal-sistemas-computacion]: http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=73711)
+[legal-sistemas-computacion]: http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=73711
